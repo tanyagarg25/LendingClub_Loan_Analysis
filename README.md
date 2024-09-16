@@ -52,9 +52,14 @@ Higher interest rates were linked to a greater likelihood of loan default.
 Borrowers with low revol_util (credit utilization) tend to have better repayment behaviors.
 Loans categorized as fully paid were associated with lower debt-to-income ratios.
 
+
 **Next Steps:**
 **Future Work:**
 
 Investigate more granular trends within borrower sub-groups, particularly focusing on income verification status.
 Conduct further analysis using predictive models (e.g., logistic regression) to quantify the risk associated with various borrower attributes.
 Explore additional features such as sub_grade and total_rec_prncp for better prediction accuracy.
+
+**Explore the interactive Tableau Dashboard visualizing the term comparison and other factors here:**
+
+https://public.tableau.com/app/profile/tanya.garg2761/viz/LendingClub_Loan_Analysis_17265144865150/TermBinComparison
