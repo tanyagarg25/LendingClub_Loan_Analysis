@@ -1,4 +1,4 @@
-## Loan Default Prediction – Data Understanding Phase for Lending Club
+# Loan Default Prediction – Data Understanding Phase for Lending Club
 
 ## **Executive Summary**
 **Objective:**
